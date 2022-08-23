@@ -6,3 +6,8 @@ Bananas
 Cherries
 Carrots
 Cereal
+Cucumbers
+Aubergines
+English Walnuts
+Chickpeas
+Avocado
